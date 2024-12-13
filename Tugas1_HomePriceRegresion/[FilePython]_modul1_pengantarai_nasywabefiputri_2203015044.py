@@ -25,6 +25,8 @@ from sklearn.pipeline import make_pipeline
 
 """##import data set ke data frame df_boston"""
 
+#untuk url, ada perpindahan repo, jadi ini code di repo lama, repo ini hanya derectory, untuk gunain perhatiin linknya, ini ke file di repo lama
+
 url = "https://raw.githubusercontent.com/nasywabefi/HomePriceRegresion_Modul1/main/HousingData.csv"
 df_boston = pd.read_csv(url, encoding='ISO-8859-1')
 df_boston.head()
