@@ -10,4 +10,6 @@ Final SUbmision : [Soon - NasywaBefiputri(2203015044)](#)
 
 
 ### Colab Links
-Tugas 1 : [ [ColabFile ]Boston’s House Price Prediction Code](https://colab.research.google.com/drive/11d_K8mtimBSicTlxtGbAor5iluVyl31t?usp=sharing)
+Tugas 1 : [ [ColabFile ]Boston’s House Price Prediction Code](https://colab.research.google.com/drive/11d_K8mtimBSicTlxtGbAor5iluVyl31t?usp=sharing)<br>
+Tugas 1 : [ [soon](#)<br>
+Tugas 1 : [ [soon]Boston’s House Price Prediction Code](#)
