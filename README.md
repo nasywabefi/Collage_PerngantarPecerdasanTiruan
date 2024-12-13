@@ -5,7 +5,7 @@ Nasywa Befiputri_2203015044
 
 ### Code Explanation Files
 - Tugas 1 : [ [GDoc] Boston’s House Price Prediction Code Explanation - NasywaBefiputri(2203015044)](https://docs.google.com/document/d/1IeoKQrJGZsRWRf0gsmQ69_2uwF1JmffSyTPNgy3L6wY/edit?usp=sharing) <br>
-- Tugas 2 : [ [GDoc] Credit Approval Classification with Artificial Neural Networks - NasywaBefiputri(2203015044)]([#](https://docs.google.com/document/d/1xMXNKpFoTq7wiRW148oe6j0DMNHvQdhujgVJiq9bz2E/edit?usp=sharing)) <br>
+- Tugas 2 : [ [GDoc] Credit Approval Classification with Artificial Neural Networks - NasywaBefiputri(2203015044)](https://docs.google.com/document/d/1xMXNKpFoTq7wiRW148oe6j0DMNHvQdhujgVJiq9bz2E/edit?usp=sharing) <br>
 - Final Project : [Soon - NasywaBefiputri(2203015044)](#)
 
 
