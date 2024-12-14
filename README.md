@@ -11,6 +11,6 @@ Nasywa Befiputri_2203015044
 
 ### Colab Links
 - Tugas 1 : [[ ColabFile ]Boston’s House Price Prediction Code](https://colab.research.google.com/drive/11d_K8mtimBSicTlxtGbAor5iluVyl31t?usp=sharing)<br>
-- Tugas 2 : [Credit Approval Classification with Artificial Neural Networks
+- Tugas 2 : [[ ColabFile ]Credit Approval Classification with Artificial Neural Networks
 ](https://colab.research.google.com/drive/1TfmdvJs3CQw9JSIomuOmVBEXQLtCsVUO?usp=sharing)<br>
 - Final SUbmision : [soon]Boston’s House Price Prediction Code](#)
