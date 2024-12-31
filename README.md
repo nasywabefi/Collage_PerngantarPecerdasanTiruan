@@ -16,7 +16,7 @@ Nasywa Befiputri_2203015044
 ](https://colab.research.google.com/drive/1TfmdvJs3CQw9JSIomuOmVBEXQLtCsVUO?usp=sharing)<br>
 - Tugas 2 : [[ ColabFile ]Building Convolutional Neural Network (CNN) in ‘Keras’ with Dataset MNIST
 ](https://colab.research.google.com/drive/1McL_dUOmEiyCnxebC0c_0zcvemIShQit?usp=sharing)<br>
-- Final SUbmision : [[ ColabFile ]](https://colab.research.google.com/drive/1sHQV16D1NrZ61cnDnYzDmYtcLrpGwHPd?usp=sharing)
+- Final SUbmision : [[ ColabFile ] Movie Recommedation ](https://colab.research.google.com/drive/1sHQV16D1NrZ61cnDnYzDmYtcLrpGwHPd?usp=sharing)
 
 ### Subject GDrive
 [ General PKT GDrive ](https://drive.google.com/drive/folders/1TzwRRsh3oGuCxVuq6UA5IWYapt7zdr8g?usp=drive_link)
